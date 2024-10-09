@@ -1,5 +1,5 @@
 # Trivia Color
-Made with Unity 2019.4.11f1
+Made with Unity 2021.3.8f1
 
 # Used Technologies
 * DoTween
